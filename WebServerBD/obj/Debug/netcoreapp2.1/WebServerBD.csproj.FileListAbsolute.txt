@@ -1,0 +1,28 @@
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\bin\Debug\netcoreapp2.1\WebServerBD.deps.json
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\bin\Debug\netcoreapp2.1\WebServerBD.runtimeconfig.json
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\bin\Debug\netcoreapp2.1\WebServerBD.runtimeconfig.dev.json
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\bin\Debug\netcoreapp2.1\WebServerBD.dll
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\bin\Debug\netcoreapp2.1\WebServerBD.pdb
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.csprojAssemblyReference.cache
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.csproj.CoreCompileInputs.cache
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.RazorAssemblyInfo.cache
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.RazorAssemblyInfo.cs
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.AssemblyInfoInputs.cache
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.AssemblyInfo.cs
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.RazorTargetAssemblyInfo.cache
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.dll
+D:\Usuario\igonzalezp\OneDrive - Cuestamoras\Desktop\Workspace\webserverbd\obj\Debug\netcoreapp2.1\WebServerBD.pdb
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\bin\Debug\netcoreapp2.1\WebServerBD.deps.json
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\bin\Debug\netcoreapp2.1\WebServerBD.runtimeconfig.json
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\bin\Debug\netcoreapp2.1\WebServerBD.runtimeconfig.dev.json
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\bin\Debug\netcoreapp2.1\WebServerBD.dll
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\bin\Debug\netcoreapp2.1\WebServerBD.pdb
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.csprojAssemblyReference.cache
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.csproj.CoreCompileInputs.cache
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.RazorAssemblyInfo.cache
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.RazorAssemblyInfo.cs
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.AssemblyInfoInputs.cache
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.AssemblyInfo.cs
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.RazorTargetAssemblyInfo.cache
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.dll
+C:\Users\igonzalezp\Desktop\Workspace\WebServerBD\obj\Debug\netcoreapp2.1\WebServerBD.pdb
